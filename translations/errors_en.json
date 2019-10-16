@@ -1,0 +1,11 @@
+{
+  "genericError": "Well, something's not right. Sorry.",
+  "knowledgeProven": "I already know you're good in math, go away!",
+  "unknownDroid": "Sorry, I don't know you nor understand this message. Say hello first!",
+  "unknownMessage": "Sorry, only following messages are allowed: 'YES', 'NO', 'HELLO' and numbers in range from 0 to 100",
+  "noIdPassed": "No droid ID has been passed!",
+  "noMessagePassed": "No message has been passed!",
+  "invalidInput": "Message input is invalid!",
+  "incorrectDate": "Incorrect date has been passed",
+  "droidIdNotFound": "No such droidId found!"
+}

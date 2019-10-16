@@ -1,0 +1,12 @@
+{
+  "welcomeQuestion": "Are you a droid?",
+  "welcomeQuestionAgain": "Let’s try again. What is the sum of 8 and 9?",
+  "firstSumQuestionCorrect": "So then, prove you can do some math. What is the sum of 8 and 9?",
+  "firstSumQuestionIncorrect": "That’s so sad. EoC.",
+  "genericSumQuestion": "So then, prove you can do some math. What is the sum of",
+  "and": "and",
+  "tryAnotherOneQuestion": "You are right! Wanna try another one?",
+  "dontWantToAnswerResponse": "I see... Nice try, human!",
+  "genericSumQuestionCorrect": "You are right! I’ll remember you can do the maths! EoC.",
+  "genericSumQuestionIncorrect": "Nice try, human! EoC."
+}

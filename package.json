@@ -1,0 +1,26 @@
+{
+  "name": "cardiocube",
+  "version": "1.0.0",
+  "description": "Cardiocube task",
+  "main": "./dist/index.js",
+  "scripts": {
+    "start": "nodemon server.js",
+    "lint": "eslint . --fix",
+    "test": "jest"
+  },
+  "author": "Madecki",
+  "license": "ISC",
+  "devDependencies": {
+    "babel-cli": "^6.26.0",
+    "babel-preset-env": "^1.7.0",
+    "eslint": "^6.5.1",
+    "eslint-config-strongloop": "^2.1.0",
+    "express": "^4.17.1",
+    "jest": "^24.9.0",
+    "nodemon": "^1.19.3",
+    "superagent": "^5.1.0",
+    "supertest": "^4.0.2",
+    "uuid": "^3.3.3"
+  },
+  "dependencies": {}
+}
